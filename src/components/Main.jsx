@@ -16,12 +16,12 @@ function Main(){
         </div>
         <div id="produtos" className="p-10 py-15 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
             {/* Exemplos de cards reutilizáveis */}
-            <Card title="Serra Circular EK7651H" description="Uma biblioteca para interfaces modernas." />
-            <Card title="Serra Circular 50007MG" description="Sua primeira atividade prática com React + Tailwind." />
-            <Card title="Esmerilhadeira" description="Um framework CSS utilitário poderoso." />
-            <Card title="Kit Parafusadeira DHP 484RFE" description="Sua primeira atividade prática com React + Tailwind." />
-            <Card title="Soprador UB1103" description="Sua primeira atividade prática com React + Tailwind." />
-            <Card title="Esmerilhadeira GA4530" description="Sua primeira atividade prática com React + Tailwind." />
+            <Card imagem title="Serra Circular EK7651H" description="Uma biblioteca para interfaces modernas." />
+            <Card imagem="../assets/img3.png" title="Serra Circular 50007MG" description="Sua primeira atividade prática com React + Tailwind." />
+            <Card imagem="../assets/img3.png" title="Esmerilhadeira" description="Um framework CSS utilitário poderoso." />
+            <Card imagem="../assets/img3.png" title="Kit Parafusadeira DHP 484RFE" description="Sua primeira atividade prática com React + Tailwind." />
+            <Card imagem="../assets/img3.png" title="Soprador UB1103" description="Sua primeira atividade prática com React + Tailwind." />
+            <Card imagem="../assets/img3.png" title="Esmerilhadeira GA4530" description="Sua primeira atividade prática com React + Tailwind." />
         </div>
         <div id="makita" className="flex-col align-middle justify-center p-15 bg-gradient-to-r from-blue-600 to-cyan-500">
             <h1 className="text-2xl font-bold p-10 text-center">Por que escolher a <span className="text-cyan-300 uppercase">Makita</span> ?</h1>
