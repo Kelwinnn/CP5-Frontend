@@ -7,7 +7,7 @@ return (
     <div id="logo" className="flex p-4 uppercase font-bold text-2xl max-sm:px-6">
         <h1 className="text-cyan-600">MAKITA</h1>
     </div>
-    <div id="nav-bar" className="flex justify-center p-4 gap-8 font-bold uppercase text-sm max-sm:hidden ">
+    <div id="nav-bar" className="flex justify-center p-4 gap-15 font-bold uppercase text-base max-sm:hidden ">
         <a href="#inicio" className="hover:text-cyan-200 transition">Inicio</a>
         <a href="#" className="hover:text-cyan-200 transition">Produtos</a>
         <a href="#" className="hover:text-cyan-200 transition">Sobre</a>
