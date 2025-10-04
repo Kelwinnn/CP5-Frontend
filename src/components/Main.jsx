@@ -10,7 +10,7 @@ import historia from "../assets/historia.png"
 
 function Main() {
   return (
-    <>
+    <div>
       <div
         id="inicio"
         className="flex-col p-65 text-center max-lg:px-0 bg-cover bg-center bg-no-repeat relative"
@@ -150,7 +150,7 @@ function Main() {
           </div>
         
       
-    </>
+    </div>
   );
 }
 
