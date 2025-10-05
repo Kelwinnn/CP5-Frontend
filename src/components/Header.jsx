@@ -62,14 +62,14 @@ function Header() {
               Inicio
             </a>
             <a 
-              href="#" 
+              href="#produtos" 
               className="py-3 px-4 text-cyan-600 hover:bg-cyan-50 rounded-lg transition font-semibold"
               onClick={() => setIsMenuOpen(false)}
             >
               Produtos
             </a>
             <a 
-              href="#" 
+              href="#sobre" 
               className="py-3 px-4 text-cyan-600 hover:bg-cyan-50 rounded-lg transition font-semibold"
               onClick={() => setIsMenuOpen(false)}
             >

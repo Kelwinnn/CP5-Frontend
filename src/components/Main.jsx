@@ -33,7 +33,7 @@ function Main() {
             </p>
           </div>
           <a
-            href="#"
+            href="#produtos"
             className="inline-block p-4 bg-cyan-600 text-white rounded-xl hover:bg-cyan-500 transition cursor-pointer max-md:p-3 max-md:text-sm"
           >
             Conheça os nosso produtos
