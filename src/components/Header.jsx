@@ -8,7 +8,7 @@ function Header() {
   };
 
   return (
-    <header className="items-center text-cyan-600 p-4 align-middle shadow-lg flex justify-between relative">
+    <header className="items-center text-cyan-600 p-4 align-middle shadow-lg flex justify-between">
       <div id="logo" className="flex p-4 uppercase font-bold text-2xl max-sm:px-6">
         <h1 className="text-cyan-600">MAKITA</h1>
       </div>
